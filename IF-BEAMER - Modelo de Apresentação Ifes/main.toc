@@ -1,0 +1,11 @@
+\babel@toc {english}{}\relax 
+\beamer@sectionintoc {1}{Restaurant Recommendation system based on location}{3}{0}{1}
+\beamer@sectionintoc {2}{Abstract}{5}{0}{2}
+\beamer@sectionintoc {3}{Motivation}{7}{0}{3}
+\beamer@sectionintoc {4}{Introduction}{10}{0}{4}
+\beamer@subsectionintoc {4}{1}{Overview}{13}{0}{4}
+\beamer@subsectionintoc {4}{2}{Working Principle}{13}{0}{4}
+\beamer@subsectionintoc {4}{3}{Features}{18}{0}{4}
+\beamer@subsectionintoc {4}{4}{Application}{18}{0}{4}
+\beamer@sectionintoc {5}{Conclusion}{18}{0}{5}
+\beamer@sectionintoc {6}{References}{20}{0}{6}
